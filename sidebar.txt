@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayb:home|Door43 (ayb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayb|d43-ayb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayb/archive/master.zip|d43-ayb.zip]]
+
+**Recent Changes**
+{{changes>ns = ayb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayb|Ethnologue data]]
+
